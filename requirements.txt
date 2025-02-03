@@ -1,0 +1,10 @@
+agno
+discord.py
+groq
+agent
+python-dotenv
+
+
+
+
+
