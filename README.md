@@ -52,5 +52,5 @@ GROQ_API_KEY=your_groq_api_key_here
 ----
 
 ## 👑 Credits
-- Created By: Your Name
+- Created By: Nishant
 - Bot Name: DOST – The Funny, Savage, Hinglish Chatbot
